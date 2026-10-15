@@ -1,22 +1,29 @@
 body {
-    background-color:rgb(92, 8, 90);
+    background-color:rgb(197, 130, 6);
 }
 
 header {
-    background-color: rgb(232, 31, 228);
+    background-color: rgb(224, 220, 31);
     color: rgb(227, 214, 227);
     text-align: center;
     padding: 10px;
     
 }
 main {
-    background-color: rgb(232, 31, 228);
+    background-color: rgb(41, 232, 31);
     color: rgb(227, 214, 227);
     text-align: center;
     padding: 10px;
 }
 div {
     background-color: rgb(232, 31, 228);
+    color: rgb(227, 214, 227);
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    background-color: rgb(41, 37, 125);
     color: rgb(227, 214, 227);
     text-align: center;
     padding: 10px;
