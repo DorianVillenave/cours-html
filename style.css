@@ -1,29 +1,30 @@
 body {
-    background-color:rgb(197, 130, 6);
+    background-color:orange;
+
 }
 
 header {
-    background-color: rgb(224, 220, 31);
+    background-color: yellow ;
     color: rgb(227, 214, 227);
     text-align: center;
     padding: 10px;
     
 }
 main {
-    background-color: rgb(41, 232, 31);
+    background-color: lime;
     color: rgb(227, 214, 227);
     text-align: center;
     padding: 10px;
 }
 div {
-    background-color: rgb(232, 31, 228);
+    background-color: pink;
     color: rgb(227, 214, 227);
     text-align: center;
-    padding: 10px;
+    padding: 5px;
 }
 
 footer {
-    background-color: rgb(41, 37, 125);
+    background-color: darkblue;
     color: rgb(227, 214, 227);
     text-align: center;
     padding: 10px;
